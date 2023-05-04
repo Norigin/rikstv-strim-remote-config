@@ -8,6 +8,6 @@
   "default": {
     "player": "shaka",
     "jumpGapsWithCeilOffsetSeconds": 5,
-    "startOffsetSeconds": 1
+    "applyJumpOffsetAtStart": true
   }
 }
