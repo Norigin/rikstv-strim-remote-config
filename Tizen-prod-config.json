@@ -6,7 +6,8 @@
         47,
         49
       ],
-      "jumpGapsWithCeilOffsetSeconds": 5
+      "jumpGapsWithCeilOffsetSeconds": 5,
+      "applyJumpOffsetAtStart": true
     },
     "2018": {
       "player": "shaka",
