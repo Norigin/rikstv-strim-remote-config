@@ -1,12 +1,27 @@
 {
     "5": {
-      "jumpGapsWithCeilOffsetSeconds": 5
+      "jumpGapsWithCeilOffsetSeconds": 5,
+      "channelsWithHLS": [
+        46,
+        47,
+        49
+      ]
     },
     "5.4": {
-      "jumpGapsWithCeilOffsetSeconds": 5
+      "jumpGapsWithCeilOffsetSeconds": 5,
+      "channelsWithHLS": [
+        46,
+        47,
+        49
+      ]
     },
     "default": {
       "player": "shaka",
-      "jumpGapsWithCeilOffsetSeconds": 5
+      "jumpGapsWithCeilOffsetSeconds": 5,
+      "channelsWithHLS": [
+        46,
+        47,
+        49
+      ]
     }
 }
