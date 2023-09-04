@@ -2,7 +2,25 @@
 	"2017": {
 		"player": "shaka",
 		"jumpGapsWithCeilOffsetSeconds": 5,
-		"applyJumpOffsetAtStart": true
+		"applyJumpOffsetAtStart": true,
+		"channelsWithHLS": [
+			46,
+			47,
+			48,
+			49,
+			630,
+			565,
+			567,
+			581,
+			631,
+			562,
+			561,
+			563,
+			564,
+			632,
+			633,
+			634
+		]
 	},
 	"2018": {
 		"player": "shaka",
@@ -18,11 +36,7 @@
 	},
 	"default": {
 		"player": "shaka",
-		"jumpGapsWithCeilOffsetSeconds": 5,
-		"channelsWithHLS": [
-			46,
-			47,
-			49
-		]
+		"jumpGapsWithCeilOffsetSeconds": 5
+		
 	}
 }
