@@ -1,12 +1,15 @@
 {
+    "4": {
+        "player": "native"
+    },
     "5": {
-      "jumpGapsWithCeilOffsetSeconds": 5
+        "jumpGapsWithCeilOffsetSeconds": 5
     },
     "5.4": {
-      "jumpGapsWithCeilOffsetSeconds": 5
+        "jumpGapsWithCeilOffsetSeconds": 5
     },
     "default": {
-      "player": "native",
-      "jumpGapsWithCeilOffsetSeconds": 5
+        "player": "shaka",
+        "jumpGapsWithCeilOffsetSeconds": 5
     }
 }
