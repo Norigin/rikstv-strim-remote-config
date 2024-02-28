@@ -6,7 +6,7 @@
 		"jumpGapsWithCeilOffsetSeconds": 5
 	},
 	"default": {
-		"player": "webos",
+		"player": "native",
 		"jumpGapsWithCeilOffsetSeconds": 5
 	}
 }
