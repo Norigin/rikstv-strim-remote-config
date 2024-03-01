@@ -9,7 +9,7 @@
         "jumpGapsWithCeilOffsetSeconds": 5
     },
     "default": {
-        "player": "shaka",
+        "player": "native",
         "jumpGapsWithCeilOffsetSeconds": 5
     }
 }
