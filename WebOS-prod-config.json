@@ -1,6 +1,6 @@
 {
     "4": {
-        "player": "native"
+        "player": "shaka"
     },
     "5": {
         "jumpGapsWithCeilOffsetSeconds": 5
