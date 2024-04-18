@@ -1,40 +1,24 @@
 {
-	"2017": {
-		"player": "shaka",
-		"jumpGapsWithCeilOffsetSeconds": 5,
-		"applyJumpOffsetAtStart": true,
-		"channelsWithHLS": [
-			46,
-			47,
-			48,
-			49,
-			630,
-			565,
-			567,
-			581,
-			631,
-			562,
-			561,
-			563,
-			564,
-			634
-		]
-	},
-	"2018": {
-		"player": "shaka",
-		"jumpGapsWithCeilOffsetSeconds": 5
-	},
-	"2019": {
-		"player": "shaka",
-		"jumpGapsWithCeilOffsetSeconds": 5
-	},
-	"2020": {
-		"player": "shaka",
-		"jumpGapsWithCeilOffsetSeconds": 5
-	},
-	"default": {
-		"player": "shaka",
-		"jumpGapsWithCeilOffsetSeconds": 5
-		
-	}
+  "2017": {
+    "player": "shaka",
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "applyJumpOffsetAtStart": true,
+    "channelsWithHLS": [46, 47, 48, 49, 561, 562, 563, 564, 565, 567, 581, 630, 631, 632, 633, 634, 643, 644]
+  },
+  "2018": {
+    "player": "shaka",
+    "jumpGapsWithCeilOffsetSeconds": 5
+  },
+  "2019": {
+    "player": "shaka",
+    "jumpGapsWithCeilOffsetSeconds": 5
+  },
+  "2020": {
+    "player": "shaka",
+    "jumpGapsWithCeilOffsetSeconds": 5
+  },
+  "default": {
+    "player": "shaka",
+    "jumpGapsWithCeilOffsetSeconds": 5
+  }
 }
