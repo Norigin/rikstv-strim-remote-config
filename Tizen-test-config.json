@@ -1,6 +1,6 @@
 {
   "2017": {
-    "player": "shaka",
+    "player": "native",
     "channelsWithHLS": [46, 47, 48, 49, 561, 562, 563, 564, 565, 567, 581, 630, 631, 632, 633, 634, 643, 644],
     "jumpGapsWithCeilOffsetSeconds": 5,
     "applyJumpOffsetAtStart": true
