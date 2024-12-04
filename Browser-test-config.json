@@ -7,7 +7,6 @@
   },
   "default": {
     "player": "shaka",
-    "livePlayer": "native",
     "jumpGapsWithCeilOffsetSeconds": 5,
     "applyJumpOffsetAtStart": true
   }
