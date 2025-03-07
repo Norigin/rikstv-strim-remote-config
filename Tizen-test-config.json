@@ -27,9 +27,6 @@
     "player": "shaka",
     "jumpGapsWithCeilOffsetSeconds": 5
   },
-  "2023": {
-    "player": "native"
-  },
   "default": {
     "player": "shaka",
     "jumpGapsWithCeilOffsetSeconds": 5
