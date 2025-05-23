@@ -9,6 +9,7 @@
     "player": "shaka",
     "livePlayer": "shaka",
     "jumpGapsWithCeilOffsetSeconds": 5,
-    "applyJumpOffsetAtStart": true
+    "applyJumpOffsetAtStart": true,
+    "showTrailer": true
   }
 }
