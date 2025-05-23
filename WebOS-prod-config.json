@@ -1,16 +1,20 @@
 {
-    "4": {
-        "player": "shaka",
-        "livePlayer": "native"
-    },
-    "5": {
-        "jumpGapsWithCeilOffsetSeconds": 5
-    },
-    "5.4": {
-        "jumpGapsWithCeilOffsetSeconds": 5
-    },
-    "default": {
-        "player": "shaka",
-        "jumpGapsWithCeilOffsetSeconds": 5
-    }
+  "4": {
+    "player": "shaka",
+    "livePlayer": "native",
+    "showTrailer": false
+  },
+  "5": {
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": false
+  },
+  "5.4": {
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": false
+  },
+  "default": {
+    "player": "shaka",
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": true
+  }
 }
