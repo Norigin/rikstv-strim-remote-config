@@ -3,22 +3,27 @@
     "player": "shaka",
     "livePlayer": "native",
     "jumpGapsWithCeilOffsetSeconds": 5,
-    "applyJumpOffsetAtStart": true
+    "applyJumpOffsetAtStart": true,
+    "showTrailer": false
   },
   "2018": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": false
   },
   "2019": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": false
   },
   "2020": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": false
   },
   "default": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": true
   }
 }
