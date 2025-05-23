@@ -4,7 +4,8 @@
     "livePlayer": "native",
     "channelsWithHLS": [46, 47, 48, 49, 561, 562, 563, 564, 565, 567, 581, 630, 631, 632, 633, 634, 643, 644],
     "jumpGapsWithCeilOffsetSeconds": 5,
-    "applyJumpOffsetAtStart": true
+    "applyJumpOffsetAtStart": true,
+    "showTrailer": false
   },
   "2018": {
     "player": "shaka",
@@ -13,15 +14,18 @@
       47,
       49
     ],
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": false
   },
   "2019": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": false
   },
   "2020": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": false
   },
   "2021": {
     "player": "shaka",
@@ -29,6 +33,7 @@
   },
   "default": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": true
   }
 }
