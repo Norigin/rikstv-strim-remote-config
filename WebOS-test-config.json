@@ -6,7 +6,7 @@
   },
   "5": {
     "jumpGapsWithCeilOffsetSeconds": 5,
-    "showTrailer": false
+    "showTrailer": true
   },
   "5.4": {
     "jumpGapsWithCeilOffsetSeconds": 5
