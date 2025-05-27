@@ -2,11 +2,10 @@
   "4": {
     "player": "shaka",
     "livePlayer": "native",
-    "showTrailer": true
+    "showTrailer": false
   },
   "5": {
-    "jumpGapsWithCeilOffsetSeconds": 5,
-    "showTrailer": true
+    "jumpGapsWithCeilOffsetSeconds": 5
   },
   "5.4": {
     "jumpGapsWithCeilOffsetSeconds": 5
