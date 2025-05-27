@@ -20,12 +20,11 @@
   "2019": {
     "player": "shaka",
     "jumpGapsWithCeilOffsetSeconds": 5,
-    "showTrailer": true
+    "showTrailer": false
   },
   "2020": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5,
-    "showTrailer": true
+    "jumpGapsWithCeilOffsetSeconds": 5
   },
   "2021": {
     "player": "shaka",
