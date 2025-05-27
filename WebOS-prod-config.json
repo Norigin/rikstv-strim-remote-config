@@ -5,12 +5,10 @@
     "showTrailer": false
   },
   "5": {
-    "jumpGapsWithCeilOffsetSeconds": 5,
-    "showTrailer": false
+    "jumpGapsWithCeilOffsetSeconds": 5
   },
   "5.4": {
-    "jumpGapsWithCeilOffsetSeconds": 5,
-    "showTrailer": false
+    "jumpGapsWithCeilOffsetSeconds": 5
   },
   "default": {
     "player": "shaka",
