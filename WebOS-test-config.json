@@ -1,7 +1,7 @@
 {
   "4": {
     "player": "shaka",
-    "livePlayer": "native",
+    "livePlayer": "shaka",
     "showTrailer": false
   },
   "5": {
