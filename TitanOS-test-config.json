@@ -1,0 +1,7 @@
+{
+  "default": {
+    "player": "shaka",
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "showTrailer": true
+  }
+}
